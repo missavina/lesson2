@@ -9,5 +9,6 @@ public class FirstTest {
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.get("http://rus.delfi.lv");
+
     }
 }
